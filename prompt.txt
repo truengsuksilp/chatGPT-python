@@ -1,0 +1,1 @@
+Create a SQL query to count the total number of forms signed in 2022 and 2023 and filter for demographics_verified
